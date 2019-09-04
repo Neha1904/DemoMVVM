@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMDaggerApp</string>
+    <string name="add_marks">Marks</string>
+</resources>
